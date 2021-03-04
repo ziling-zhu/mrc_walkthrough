@@ -94,25 +94,23 @@ p1 + p2
 ```
 
 ---
+
 .pull-left[
 
 - stuff
 
+]
+
 --
+
+.pull-left[
 
 - hi
-
---
-
-- hello
-
---
-
-- bye
 
 ]
 
 --
+
 .pull-right[
 
 ```{r, fig.width = 12}
